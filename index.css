@@ -1,6 +1,6 @@
 /* Write your code here. */
 .bgContainer {
-  background-image: url(https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png);
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
   background-size: cover;
   display: flex;
   flex-direction: column;
